@@ -102,47 +102,25 @@ I'm working on Nexus Market to develop my frontend skills and build a polished s
 
 </div>
 
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.demolab.com?user=Suryakanta-Biswal&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryakanta-biswal&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+</p>
 
 ---
 
 ## 📈 Contribution Activity Graph
 
 <div align="center">
-
-<a href="https://github.com/Suryakanta-Biswal">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suryakanta-Biswal&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-</a>
-
-</div>
-
----
-
-## 🐍 Contribution Calendar Animation
-
-This optional animation shows a snake moving through your GitHub contribution calendar. **It requires a GitHub Actions workflow** before the image will appear.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Suryakanta-Biswal/Suryakanta-Biswal/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-
+  <img width="100%" src="https://raw.githubusercontent.com/Suryakanta-Biswal/Suryakanta-Biswal/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </div>
 
 ---
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Suryakanta-Biswal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies" />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suryakanta-biswal&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
+</p>
 
 ---
 
