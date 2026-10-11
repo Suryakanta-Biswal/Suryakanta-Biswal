@@ -108,14 +108,6 @@ I'm working on Nexus Market to develop my frontend skills and build a polished s
 
 ---
 
-## 📈 Contribution Activity Graph
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Suryakanta-Biswal/Suryakanta-Biswal/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</div>
-
----
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
