@@ -52,7 +52,6 @@ Building clean, responsive, and user-friendly web experiences.
 ### Backend & Database
 
 <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" /></a>
-<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="48" alt="Express.js" /></a>
 <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB" /></a>
 
 ### Tools & State Management
